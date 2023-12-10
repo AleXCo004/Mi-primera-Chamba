@@ -1,0 +1,59 @@
+body{
+    background:url("https://craftlakecity.com/wp-content/uploads/2020/04/STEM-Background.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+nav ul{
+    text-align: center;
+    list-style: none;
+}
+nav ul li{
+    display:inline;
+}
+    h1{
+    color:blanchedalmond;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+}
+h2{
+    color:blanchedalmond;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+}
+h3{
+    color:blanchedalmond;
+    text-align: center;
+    font-size: 15px;
+}
+.parrafo1{
+    color:palevioletred;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.parrafo2{
+    color:burlywood;
+    font-family: 'Times New Roman', Times, serif;
+    border: solid;
+    text-align: left;
+    font-size: 15px;
+    font-weight: bold;
+}
+ol{
+    color:rgb(220, 235, 160);
+    text-align: center;
+    font-size: 15px;
+}
+ul{
+    color:rgb(220,235,160);
+    text-align: center;
+    font-size: 15px;
+}
+img{
+    display: block;
+    margin: auto;
+    border-radius: 25px;
+    padding: 35px;
+    
+}
